@@ -41,7 +41,7 @@
   ```
 * `rails db:seed` will run this file!  Now we have stuff in our database!
 * Open up a new *tab* in your terminal.  Run `rails c` (short for `rails console`)
-* Test out the following prompts. Check out the SQL query that gets logged for each command. Record the SQL query in the `seed.sql` file and comment them out (so they don't through errors).
+* Test out the following prompts. Check out the SQL query that gets logged for each command. Record the SQL query in the `seed.sql` file and comment them out (so they don't raise errors).
 * Prompts:
   * `Snack.count`
   * `Snack.first`
